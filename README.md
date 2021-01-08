@@ -1,6 +1,6 @@
 # RoboticPlantCare
 
-I built a robot which takes cares of plants.\
+I built a robot which takes cares of plants.
 
 ### How it works
 
